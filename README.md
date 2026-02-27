@@ -1,13 +1,5 @@
 # 🏭 Industrial CANbus Data Analyzer — Project Report
 
-**Project Name:** Industrial Communication Data Analyzer (CANbus Logger & Decoder)  
-**Technology:** Python 3.12 · python-can 4.6.1 · Tkinter · Matplotlib  
-**Developer:** Enes Uyar  
-**Platform:** Windows 11 · Fully Virtual Environment (Cost: $0)  
-**Date:** February 2026
-
----
-
 ## 1. Project Summary
 
 This project demonstrates the development of an industrial automation communication analyzer built entirely in Python. It simulates a real CAN bus network, captures raw hexadecimal CAN frames, and decodes them into human-readable engineering values in real time.

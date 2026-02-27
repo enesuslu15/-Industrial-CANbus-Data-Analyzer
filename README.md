@@ -9,6 +9,11 @@
 
 ## 📌 What This Project Does
 
+![Live Demo](canbus.gif)
+![Screenshot](canbus.png)
+
+
+
 Machines on a factory floor speak in hex. This tool decodes that language in real time.
 
 ```
